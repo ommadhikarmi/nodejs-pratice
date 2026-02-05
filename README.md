@@ -8,4 +8,9 @@
 
   - create,read,update,delete operaton with fs.
   - crud operation with terminal inputs
+
+3..CRUD with file system(Async way)
+
+ - create,read,update,delete operaton with fs.
+  - crud operation with terminal inputs
     
