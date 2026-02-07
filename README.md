@@ -15,6 +15,6 @@
         -crud operation with terminal inputs
     
 4.Simple website with nodejs
-        -make js file for handel html pages
+        - make js file for handel html pages
         - make server and load html files
         - handle css
